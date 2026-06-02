@@ -1,0 +1,30 @@
+
+h1
+{
+    color:red;
+}
+
+p
+{
+    color:blue;
+    background-color:white;
+
+}
+
+Button
+{
+    color:purple;
+    background-color:pink; 
+}
+
+img
+{
+    color:salmon;
+    background-color:aqua; 
+}
+
+a
+{
+    color:purple;
+    background-color:palegreen; 
+}
