@@ -1,0 +1,23 @@
+
+h1
+{
+    text-transform:uppercase;
+}
+
+h2
+{
+    text-transform:lowercase;
+}
+
+h3
+{
+    text-transform:capitalize;
+}
+
+p
+{
+    color:blue;
+    background-color:white;
+    text-transform:none;
+}
+
