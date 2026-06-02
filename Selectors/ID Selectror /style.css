@@ -1,0 +1,30 @@
+
+#heading1
+{
+    color:red;
+}
+
+#Paragraph
+{
+    color:blue;
+    background-color:white;
+
+}
+
+#Button
+{
+    color:purple;
+    background-color:pink; 
+}
+
+#myimage
+{
+    color:salmon;
+    background-color:aqua; 
+}
+
+#mylink
+{
+    color:purple;
+    background-color:palegreen; 
+}
