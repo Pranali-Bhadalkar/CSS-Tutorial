@@ -1,0 +1,35 @@
+
+h1
+{
+    color:#ff0000;
+}
+
+p
+{
+    color:#ff0099;
+    background-color:#5900ff;
+
+}
+
+Button
+{
+    color:#ff0ff0;
+    background-color:#00f2ff; 
+}
+
+img
+{
+    color:#f0c000;
+    background-color:#007bff;
+}
+
+a
+{
+    color:#ff00dd;
+    background-color:#2200ffe1;
+}
+
+body
+{
+ background-color:#e1ff00;
+}
