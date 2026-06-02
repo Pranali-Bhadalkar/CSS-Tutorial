@@ -1,0 +1,38 @@
+
+h1
+{
+    text-decoration:underline;
+}
+
+h2
+{
+    text-decoration:overline;
+}
+
+h3
+{
+    text-decoration:line-through;
+}
+
+p
+{
+    color:blue;
+    background-color:white;
+    text-decoration:none;
+
+}
+
+Button
+{
+    text-decoration:underline;
+}
+
+img
+{
+   text-decoration:underline;
+}
+
+a
+{
+    text-decoration:none;
+}
