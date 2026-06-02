@@ -1,0 +1,23 @@
+
+h1
+{
+   font-family:arial;
+}
+
+h2
+{
+    font-family:roboto;
+}
+
+h3
+{
+    font-family:arial;
+}
+
+p
+{
+    color:blue;
+    background-color:white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
