@@ -1,0 +1,12 @@
+
+div
+{
+background-color:pink;
+display:inline;
+}
+
+button
+{
+background-color:rgb(222, 255, 192);
+display:inline;
+}
