@@ -1,0 +1,29 @@
+
+div
+{
+    width:100px;
+    height:100px;
+    margin:25px;
+    padding:25px;
+    display:inline-block;
+}
+
+#Pranali
+{
+    background-color:rgba(0, 0, 255, 0.5);
+}
+
+#Prathamesh
+{
+    background-color:rgba(0, 0, 255, 0.75);
+}
+
+#Parth
+{
+    background-color:rgba(0, 0, 255, 1.7);
+}
+
+#Payal
+{
+    background-color:rgba(255, 242, 224, 5.7);
+}
