@@ -1,0 +1,43 @@
+div
+{
+    height: 100px;
+    width: 100px;
+    border:2px solid black;
+    display:inline-block;
+}
+
+#Pranali
+{
+position:static;
+z-index:5;
+}
+
+#Prathamesh
+{
+position:relative;
+left:10px;
+top:20px;
+z-index:1;
+}
+
+#Parth
+{
+position:absolute;
+top:400px;
+left:20px;
+z-index:-4;
+}
+
+#Payal
+{
+position:fixed;
+top:50px;
+z-index:-2;
+}
+
+#Pratiksha
+{
+position:sticky;
+z-index:0;
+}
+
